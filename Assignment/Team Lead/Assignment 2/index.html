@@ -1,0 +1,35 @@
+{% extends 'nav.html' %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% block head %}
+    <title>Home page</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <style>
+      h1{
+        color:white;
+      }
+      p{
+        color: white;
+      }
+    </style>
+    {% endblock %}
+    
+
+</head>
+<body>
+    {% block body %} 
+    <center>
+    <h1><u>Home Page</u></h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime officiis, veniam voluptates tempore quidem, doloremque iste corrupti numquam at ab, eaque blanditiis corporis pariatur ullam nam sunt repellendus dicta voluptas?</p>
+    <img src="https://pbs.twimg.com/profile_images/1493905126670675969/y_hQBo95_400x400.jpg" width="300" height="300">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum facere suscipit impedit dolor consequuntur quasi. Expedita vitae ipsam consequuntur, quod reiciendis deleniti cumque aliquid debitis exercitationem, eum voluptate. Eius, ea.</p>
+    </center>
+    {% endblock %}
+</body>
+</html>
