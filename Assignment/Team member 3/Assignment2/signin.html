@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% block head %}
+    <title>Sign In</title>
+    <link rel="stylesheet" href="static/css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"/>
+    {% endblock %}
+  </head>
+  <body>
+    {% block body %}
+    <div class="signin-box">
+      <h1>Sign In</h1>
+      <form action="/">
+        <label>Email</label>
+        <input type="email" placeholder="" />
+        <label>Password</label>
+        <input type="password" placeholder="" />
+        <input type="submit" value="Submit" />
+
+      </form>
+    </div>
+    <p class="para-2">
+      Not have an account? <a href="/signup">Sign Up Here</a>
+    </p>
+    {% endblock %}
+  </body>
+</html>
