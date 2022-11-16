@@ -1,7 +1,7 @@
 # IBM-Project-29786-1660129838
 # Smart Fashion Recommender Application
 
-![image](https://user-images.githubusercontent.com/91404416/196099188-2adc16b7-db1c-40df-9557-5d6bf26d6f5f.png)
+https://camo.githubusercontent.com/c4d2414fe1926d0321a143b90035b68257c668bb68df9f7ad0c6ff7a83b5a55a/68747470733a2f2f746563686372756e63682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f646f776e6c6f61642e6769663f773d363830
 
 Batch Name: B3-3M5E
 
