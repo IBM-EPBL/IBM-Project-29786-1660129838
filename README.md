@@ -1,7 +1,7 @@
 # IBM-Project-29786-1660129838
 # Smart Fashion Recommender Application
 
-(https://user-images.githubusercontent.com/91404416/202107774-18a59865-9300-4bde-98b9-698dd77672f4.gif)
+![cdn corporate walmart](https://user-images.githubusercontent.com/91404416/202107999-43f794a7-db2b-47ec-a1d1-a0d50355cfd2.gif)
 
 
 Batch Name: B3-3M5E
